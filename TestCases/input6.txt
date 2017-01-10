@@ -1,0 +1,26 @@
+BFS
+A
+I
+12
+A B 9
+B C 12
+A D 7
+B E 10
+C F 23
+E D 1
+F E 7
+D G 11
+H E 8
+F I 5
+G H 13
+H I 10
+9
+A 40
+B 30
+C 30
+D 30
+E 15
+F 6
+G 22
+H 9
+I 0
